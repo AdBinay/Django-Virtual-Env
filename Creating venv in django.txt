@@ -1,0 +1,7 @@
+1 . pip install virtualenv
+
+2.  python -m venv myvenv
+
+3.  .\myvenv\Scripts\activate
+
+(myvenv) PS C:\Users\Binay\Desktop\authentication system in django> 
